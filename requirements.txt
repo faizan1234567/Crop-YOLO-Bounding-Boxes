@@ -1,0 +1,5 @@
+numpy
+pandas
+opencv-python
+torch
+#if you need further packages, just write their name here, pip will install it for you.
